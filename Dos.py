@@ -2,7 +2,7 @@ import os
 import requests
 import sys
 # Bot tolen mo
-_token = "7012416235:AAE8wokwVyEiquYAex4gqOP5V6GdT5L5JpM"
+_token = "7282155355:AAFrbyk-i6Yg14u_Pm32PxNwMj7Qkm96usI"
 
 print(f'''\033[1;91m
     ┏━━━┓╋┏┓
